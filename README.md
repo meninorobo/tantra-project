@@ -10,7 +10,7 @@
 <p><strong><a href="https://www.netlify.com" target="_blank">Subindo um site na Netlify:</a></strong></p>
 
 
-    Crie uma conta na Netlify:
+   <p> Crie uma conta na Netlify:
         Acesse o site da Netlify e crie uma conta gratuita.
 
     Conecte o repositório Git:
@@ -30,12 +30,12 @@
         A Netlify iniciará automaticamente o processo de construção do seu site.
 
     Acesse seu site:
-        Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
+        Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site. </p>
         
 <p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="100" alt="Logo"></a></p>
 <p><strong><a href="https://vercel.com/" target="_blank">Subindo um site na Vercel:</a></strong></p>
 
-    Crie uma conta na Vercel:
+   <p> Crie uma conta na Vercel:
         Vá para o site da Vercel e crie uma conta gratuita.
 
     Conecte o repositório Git:
@@ -54,4 +54,4 @@
         A Vercel começará automaticamente a compilar e implantar seu site.
 
     Acesse seu site:
-        Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.
+        Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site. </p>
