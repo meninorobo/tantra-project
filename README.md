@@ -4,8 +4,8 @@
 
 ## Como Subir o site de forma grátis
 
-[![Netlify Logo](https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png)](https://www.netlify.com)
 
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
 **[Subindo um site na Netlify:](https://www.netlify.com)**
 
 1. **Crie uma conta na Netlify:**
@@ -30,7 +30,7 @@
 6. **Acesse seu site:**
    - Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
 
-[![Vercel Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w)](https://vercel.com/)
+<p align="center"><a href="https://vercel.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
 
 **[Subindo um site na Vercel:](https://vercel.com/)**
 
@@ -54,3 +54,6 @@
 
 6. **Acesse seu site:**
    - Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.
+
+
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
