@@ -10,48 +10,48 @@
 <p><strong><a href="https://www.netlify.com" target="_blank">Subindo um site na Netlify:</a></strong></p>
 
 
-   <p> Crie uma conta na Netlify:
-        Acesse o site da Netlify e crie uma conta gratuita.
+   <p>Crie uma conta na Netlify:</p>
+        <p>Acesse o site da Netlify e crie uma conta gratuita.</p>
 
-    Conecte o repositório Git:
-        Vá para o painel da Netlify e clique em "New site from Git".
-        Escolha o provedor de serviço Git onde seu repositório está hospedado (GitHub, GitLab, Bitbucket, etc.).
-        Selecione o repositório que contém o código do seu site.
+    <p>Conecte o repositório Git:</p>
+        <p>Vá para o painel da Netlify e clique em "New site from Git".</p>
+        <p>Escolha o provedor de serviço Git onde seu repositório está hospedado (GitHub, GitLab, Bitbucket, etc.).</p>
+        <p>Selecione o repositório que contém o código do seu site.</p>
 
-    Configure as configurações do site:
-        Escolha as configurações de compilação e implantação adequadas para o seu site.
-        Defina o diretório de compilação se necessário.
-        Configure variáveis de ambiente se o seu site precisar delas.
+    <p>Configure as configurações do site:</p>
+        <p>Escolha as configurações de compilação e implantação adequadas para o seu site.</p>
+        <p>Defina o diretório de compilação se necessário.</p>
+        <p>Configure variáveis de ambiente se o seu site precisar delas.</p>
 
-    Inicie o deploy:
-        Clique no botão "Deploy" ou "Deploy site" para iniciar o processo de implantação.
+    <p>Inicie o deploy:</p>
+        <p>Clique no botão "Deploy" ou "Deploy site" para iniciar o processo de implantação.</p>
 
-    Aguarde o processo de build:
-        A Netlify iniciará automaticamente o processo de construção do seu site.
+    <p>Aguarde o processo de build:</p>
+        <p>A Netlify iniciará automaticamente o processo de construção do seu site.</p>
 
-    Acesse seu site:
-        Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site. </p>
+    <p>Acesse seu site:</p>
+        <p>Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site. </p>
         
 <p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="100" alt="Logo"></a></p>
 <p><strong><a href="https://vercel.com/" target="_blank">Subindo um site na Vercel:</a></strong></p>
 
-   <p> Crie uma conta na Vercel:
-        Vá para o site da Vercel e crie uma conta gratuita.
+<p> Crie uma conta na Vercel:</p>
+<p>  Vá para o site da Vercel e crie uma conta gratuita.</p>
 
-    Conecte o repositório Git:
-        No painel da Vercel, clique em "Import Project".
-        Escolha o provedor de serviço Git onde seu repositório está hospedado.
-        Selecione o repositório que contém o código do seu site.
+<p> Conecte o repositório Git:</p>
+<p>   No painel da Vercel, clique em "Import Project".</p>
+<p>  Escolha o provedor de serviço Git onde seu repositório está hospedado.</p>
+<p>   Selecione o repositório que contém o código do seu site.</p>
 
-    Configure as configurações do site:
-        Escolha as configurações de build adequadas para o seu projeto.
-        Defina o comando de compilação e o diretório público, se necessário.
+<p>Configure as configurações do site:</p>
+        <p>Escolha as configurações de build adequadas para o seu projeto.</p>
+        <p>Defina o comando de compilação e o diretório público, se necessário.</p>
 
-    Inicie o deploy:
-        Clique no botão "Deploy" para iniciar o processo de implantação.
+    <p>Inicie o deploy:</p>
+        <p>Clique no botão "Deploy" para iniciar o processo de implantação.</p>
 
-    Aguarde o processo de build:
-        A Vercel começará automaticamente a compilar e implantar seu site.
+    <p>Aguarde o processo de build:</p>
+        <p>A Vercel começará automaticamente a compilar e implantar seu site.</p>
 
-    Acesse seu site:
-        Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site. </p>
+    <p>Acesse seu site:</p>
+        <p>Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.</p>
