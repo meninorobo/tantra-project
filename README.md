@@ -47,11 +47,11 @@
         <p>Escolha as configurações de build adequadas para o seu projeto.</p>
         <p>Defina o comando de compilação e o diretório público, se necessário.</p>
 
-    <p>Inicie o deploy:</p>
-        <p>Clique no botão "Deploy" para iniciar o processo de implantação.</p>
+    <p>Inicie o deploy: </p>
+        <p>Clique no botão "Deploy" para iniciar o processo de implantação. </p>
 
-    <p>Aguarde o processo de build:</p>
-        <p>A Vercel começará automaticamente a compilar e implantar seu site.</p>
+    <p>Aguarde o processo de build: </p>
+        <p>A Vercel começará automaticamente a compilar e implantar seu site </p>
 
     <p>Acesse seu site:</p>
-        <p>Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.</p>
+        <p>Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site. </p>
