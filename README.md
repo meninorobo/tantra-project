@@ -31,7 +31,7 @@
 6. **Acesse seu site:**
    - Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
 
-<p align="center"><a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
 
 **[Subindo um site na Vercel:](https://vercel.com/)**
 
@@ -57,4 +57,4 @@
    - Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.
 
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
