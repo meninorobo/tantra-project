@@ -6,7 +6,7 @@
 
 ## Como Subir o site de forma gratis
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="100" alt="Logo"></a></p>
 <p><strong><a href="https://www.netlify.com" target="_blank">Subindo um site na Netlify:</a></strong></p>
 
 
@@ -32,7 +32,7 @@
     Acesse seu site:
         Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
         
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="100" alt="Logo"></a></p>
 <p><strong><a href="https://vercel.com/" target="_blank">Subindo um site na Vercel:</a></strong></p>
 
     Crie uma conta na Vercel:
