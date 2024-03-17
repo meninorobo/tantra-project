@@ -1007,7 +1007,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				</div>
 				<div class="elementor-element elementor-element-596542e2 elementor-widget elementor-widget-text-editor" data-id="596542e2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Pimenta vermelha | CNPJ: 30.839.323/0001-46<br />Todos os Direito Reservados<br /><a href="/Políticas de Privacidade/index.html" target="_blank" rel="noopener">Políticas de Privacidade</a> | <a href="/Termos de Uso/index.html" target="_blank" rel="noopener">Termos de Uso</a></p>						</div>
+							<p>Pimenta vermelha | CNPJ: 30.839.323/0001-46<br />Todos os Direito Reservados<br /><a href="/privacidade" target="_blank" rel="noopener">Políticas de Privacidade</a> | <a href="/termos" target="_blank" rel="noopener">Termos de Uso</a></p>						</div>
 				</div>
 					</div>
 		</div>
