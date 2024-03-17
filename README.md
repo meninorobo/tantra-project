@@ -2,7 +2,8 @@
 
 ![Efeito](https://www.dicasdopadrinho.com/wp-content/uploads/2022/01/Efeito-fenix_00000-1024x955.png)
 
-## Como Subir o site de forma grátis
+
+<h1 align="center">Como Subir o site de forma grátis na Netlify ou Vercel</h1>
 
 
 <p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
