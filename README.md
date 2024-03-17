@@ -1,12 +1,12 @@
 # Presente para a tropa 
 
-<p align="center"><a href="https://viper.casino/" target="_blank"><img src="hhttps://www.dicasdopadrinho.com/wp-content/uploads/2022/01/Efeito-fenix_00000-1024x955.png" width="600" alt="Efeito"></a></p>
+<p align="center"><a href="https://viper.casino/" target="_blank"><img src="https://www.dicasdopadrinho.com/wp-content/uploads/2022/01/Efeito-fenix_00000-1024x955.png" width="600" alt="Efeito"></a></p>
 
 
 
 ## Como Subir o site de forma gratis
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fnetlifystatus&psig=AOvVaw0f6RK9TGvppdJh4os8w338&ust=1710738571676000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwij1Jv4w_qEAxXqiJUCHVwlA_IQjRx6BAgAEBc" width="400" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" width="400" alt="Logo"></a></p>
 <p><strong>Subindo um site na Netlify:</strong></p>
 
 
