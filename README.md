@@ -5,7 +5,7 @@
 ## Como Subir o site de forma grátis
 
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
 
 **[Subindo um site na Netlify:](https://www.netlify.com)**
 
@@ -55,6 +55,3 @@
 
 6. **Acesse seu site:**
    - Após a conclusão do processo de implantação, você receberá um URL fornecido pela Vercel para acessar seu site.
-
-
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
