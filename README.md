@@ -1,11 +1,11 @@
-# Presente para a tropa
+<h1 align="center">Presente para a tropa</h1>
 
 ![Efeito](https://www.dicasdopadrinho.com/wp-content/uploads/2022/01/Efeito-fenix_00000-1024x955.png)
 
 ## Como Subir o site de forma grátis
 
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
 
 **[Subindo um site na Netlify:](https://www.netlify.com)**
 
@@ -31,7 +31,7 @@
 6. **Acesse seu site:**
    - Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
 
-<p align="center"><a href="https://vercel.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSqXz_mKhvp-05665z75rscs15in6GXTGuC9GlBnp5-AoUFLnw9Or6MfcZmewqW331w" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
+<p align="center"><a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" style="border-radius: 50%;" width="40" alt="Logo"></a></p>
 
 **[Subindo um site na Vercel:](https://vercel.com/)**
 
