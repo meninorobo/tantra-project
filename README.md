@@ -6,7 +6,7 @@
 
 ## Como Subir o site de forma gratis
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" width="400" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1633209170215284736/ORFuVANm_400x400.png" style="border-radius: 50%;" width="400" alt="Logo"></a></p>
 <p><strong>Subindo um site na Netlify:</strong></p>
 
 
