@@ -6,7 +6,7 @@
 <h3 align="center">Como Subir o site de forma grátis na Netlify ou Vercel</h3>
 
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="./img/ntof.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="./img/ntof.png" style="-webkit-user-drag: none;" width="150" alt="Logo"></a></p>
 
 **[Subindo um site na Netlify:](https://www.netlify.com)**
 
@@ -32,7 +32,7 @@
 6. **Acesse seu site:**
    - Após a conclusão do processo de construção, você receberá um URL fornecido pela Netlify para acessar seu site.
 
-<p align="center"><a href="https://vercel.com/" target="_blank"><img src="./img/vercel.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
+<p align="center"><a href="https://vercel.com" target="_blank"><img src="./img/vercel.png" style="-webkit-user-drag: none;" width="150" alt="Logo"></a></p>
 
 **[Subindo um site na Vercel:](https://vercel.com/)**
 
