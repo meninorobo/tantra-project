@@ -6,7 +6,7 @@
 <h3 align="center">Como Subir o site de forma grátis na Netlify ou Vercel</h3>
 
 
-<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
+<p align="center"><a href="https://www.netlify.com" target="_blank"><img src="./img/ntof.png" style="border-radius: 50%;" width="150" alt="Logo"></a></p>
 
 **[Subindo um site na Netlify:](https://www.netlify.com)**
 
