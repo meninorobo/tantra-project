@@ -34,7 +34,7 @@
 
 <p align="center"><a href="https://vercel.com" target="_blank"><img src="./img/vercel.png" style="-webkit-user-drag: none;" width="150" alt="Logo"></a></p>
 
-**[Subindo um site na Vercel:](https://vercel.com/)**
+**[Subindo um site na Vercel:](https://vercel.com)**
 
 1. **Crie uma conta na Vercel:**
    - Vá para o site da Vercel e crie uma conta gratuita.
